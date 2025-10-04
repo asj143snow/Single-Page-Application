@@ -1,0 +1,69 @@
+.page {
+  min-height: 100vh;       
+  background-size: cover;  
+  background-position: center;
+  padding: 40px;
+  color: white;           
+  text-shadow: 1px 1px 4px black; 
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+  
+}
+
+.home-bg {
+  background-image: url('C:\Users\user\New folder\firstapp\public\images\Homebg.jpg'); 
+}
+
+.about-bg {
+  background-image: url('C:\Users\user\New folder\firstapp\public\images\Aboutbg.jpg'); 
+}
+
+.services-bg {
+  background-image: url('C:\Users\user\New folder\firstapp\public\images\Servicesbg.jpg'); 
+}
+
+.contact-bg {
+  background-image: url('C:\Users\user\New folder\firstapp\public\images\Contactbg.jpg'); 
+}
+.image1{
+    width: 20%;
+    left: 0px;
+    position: relative;
+    top: 150px;
+    
+}
+.image2{
+    width: 20%;
+    left: -35px;
+    position: relative;
+    top: 40px;
+    
+}
+.image3{
+    width: 30%;
+    left: -80px;
+    position: relative;
+    top: 200px;
+    
+}
+.image4{
+    width: 15%;
+    left: 0px;
+    position: relative;
+    top: 150px;
+    
+}
+.image5{
+    width: 15%;
+    left: -10px;
+    position: relative;
+    top: -1px;
+    
+}
+.image6{
+    width: 15%;
+    left: -20px;
+    position: relative;
+    top: 150px;
+    
+}
